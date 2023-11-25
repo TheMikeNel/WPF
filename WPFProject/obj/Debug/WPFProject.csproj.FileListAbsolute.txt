@@ -1,0 +1,15 @@
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\bin\Debug\WPFProject.exe.config
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\bin\Debug\WPFProject.exe
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\bin\Debug\WPFProject.pdb
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\MainWindow.g.cs
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\App.g.cs
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\MainWindow.baml
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\WPFProject.g.resources
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\WPFProject.exe
+C:\Users\mihar\Documents\Data\GitHub\MyLearning\WPFProject\obj\Debug\WPFProject.pdb
